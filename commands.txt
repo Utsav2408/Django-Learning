@@ -1,0 +1,12 @@
+Virtual Env - 
+    To install virtualenv - pip install virtualenv
+    To create virtual environment - virtualenv your_env_name
+    To activate - env\scripts\activate
+    To deactivate - env\scripts\deactivate
+
+Django -
+    To install - pip install django
+    To create project - django-admin startproject your_project_name
+    To run server - python manage.py runserver
+    To make an app - python manage.py startapp your_app_name
+    
